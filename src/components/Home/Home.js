@@ -4,16 +4,18 @@ import NavBar from "../NavBar/NavBar";
 
 
 
-
 function Home(){
 
     return(
-        <>
+        
         <div className={style.full}>
             <NavBar/>
+            <div>
+                
+            </div>
 
         </div>
-        </>
+        
     )
 
 }

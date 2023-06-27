@@ -4,12 +4,15 @@ import style from './NavBar.module.css';
 
 function NavBar(){
     return (
-        <>
-        <div className={style.nav}>
+        
+        <nav className={style.nav}>
+            <div>
+                
+            </div>
 
-        </div>
-        </>
+        </nav>
+        
     )
 }
 
-export default NavBar
+export default NavBar;

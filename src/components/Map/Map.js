@@ -9,7 +9,16 @@ import iconShadow from 'leaflet/dist/images/marker-icon.png';
 let iconUbicacion = new L.icon({
     iconUrl: icon,
     iconShadow: iconShadow,
-    iconSize: [60, 55],
+    iconSize: [20, 35],
+    iconAnchor: [22, 94],
+    shadowAnchor: [22, 94],
+    popupAnchor: [-3, -76]
+})
+
+let iconUbicacion2 = new L.icon({
+    iconUrl: icon,
+    iconShadow: iconShadow,
+    iconSize: [30, 35],
     iconAnchor: [22, 94],
     shadowAnchor: [22, 94],
     popupAnchor: [-3, -76]
@@ -18,16 +27,11 @@ let iconUbicacion = new L.icon({
 function Map() {
     return (
         <div>
-            <MapContainer center={[51.505, -0.09]} zoom={13} scrollWheelZoom={false} className="mapa" >
+            <MapContainer center={[-33.409, -70.594]} zoom={13} scrollWheelZoom={false} className="mapa" >
                 <TileLayer
                     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
                 />
-                <Marker position={[51.505, -0.09]} icon={iconUbicacion} >
-                    <Popup>
-                        A pretty CSS3 popup. <br /> Easily customizable.
-                    </Popup>
-                </Marker>
             </MapContainer>
         </div>
     )

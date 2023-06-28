@@ -1,0 +1,106 @@
+{
+    "proyectos":[
+        {
+            "nombre": "Edificios Mirador Los Trapenses",
+            "ubicación": "Av. El Alba 2065, Los Trapenses, Lo Barnechea, RM (Metropolitana)",
+            "superficie": "196 - 234 m²",
+            "precio": "UF 19.185",
+            "coordenadas":[
+                -33.3159112,
+                -70.5551865
+            ]
+            
+        },
+        {
+            "nombre": "Edificio Partenón 1770",
+            "ubicación": "Partenón 1770, Estadio Croata, Vitacura, RM (Metropolitana)",
+            "superficie": "82 - 145 m²",
+            "precio": "UF 10.228",
+            "coordenadas":[
+                -33.3850577,
+                -70.5650368
+            ]
+        },
+        {
+            "nombre": "Edificio Roosevelt",
+            "ubicación": "Roosevelt 1760, Barrio Oriente - Las Tres Pascualas, Concepción, Biobío",
+            "superficie": "86 - 102.37 m²",
+            "precio": "UF 6.040",
+            "coordenadas":[
+                -36.8214586,
+                -73.0385333
+            ]
+        },
+        {
+            "nombre": "Condominio Salinas del Mar II",
+            "ubicación": "Halímeda Norte S/n, Jardín Del Mar, Reñaca, Viña Del Mar, Valparaíso",
+            "superficie": "36 - 103 m²",
+            "precio": "UF 3.140",
+            "coordenadas":[
+                -32.9853645,
+                -71.5361331
+            ]
+
+        },
+        {
+            "nombre": "Jofre",
+            "ubicación": "General Jofré 135, Santiago, Chile, Santa Isabel, Santiago, RM (Metropolitana)",
+            "superficie": "20 - 55.33 m²",
+            "precio": "UF 2.471",
+            "coordenadas":[
+                -33.4445891,
+                -70.6377106
+            ]
+        },
+        {
+            "nombre": "Vilumanque Oriente",
+            "ubicación": "Camino Concepción, Penco, Concepción, Biobío",
+            "superficie": "106 - 140 m²",
+            "precio": "UF 7.246",
+            "coordenadas":[
+                -36.7906914,
+                -73.0250331
+            ]
+        },
+        {
+            "nombre": "San Pedro 83, Caleta Abarca, Recreo",
+            "ubicación": "San Pedro 83, Viña Del Mar, Chile, Recreo, Viña Del Mar, Valparaíso",
+            "superficie": "173 m²",
+            "precio": "UF 8.300",
+            "coordenadas":[
+                -33.0250889,
+                -71.5732648
+            ]
+        },
+        {
+            "nombre": "Condominio Tocornal",
+            "ubicación": "Juan De Dios Malebrán 1101, Puente Alto, Chile, Las Mercedes, Puente Alto, RM (Metropolitana)",
+            "superficie": "68.42 - 71.37 m²",
+            "precio": "UF 5.340",
+            "coordenadas":[
+                -33.6040644,
+                -70.592325
+            ]
+        },
+        {
+            "nombre": "Casa En Venta. 3d/3b. Sector Dinamarca, Providencia",
+            "ubicación": "Eliecer Parada 1930, Providencia., Metro Bilbao, Providencia, RM (Metropolitana)",
+            "superficie": "270 m²",
+            "precio": "UF 13.600",
+            "coordenadas":[
+                -33.4382619,
+                -70.5889587
+            ]
+        },
+        {
+            "nombre": "Barrio Los Castaños VII",
+            "ubicación": "Av. Cuatro Pte. 1118, Maipú, Chile, Nueva San Martín, Maipú, RM (Metropolitana)",
+            "superficie": "76.39 - 118.16 m²",
+            "precio": "UF 4.610",
+            "coordenadas":[
+                -33.5284897,
+                -70.7944696
+            ]
+        }
+    ]
+}

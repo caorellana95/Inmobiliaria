@@ -7,7 +7,7 @@ function NavBar(){
         
         <nav className={style.nav}>
             <div>
-                
+                <h1>Proyectos</h1>
             </div>
 
         </nav>
